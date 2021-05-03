@@ -15,3 +15,10 @@ Enter the directory containing the script
 Run the script using command :  python .\VaccinationCheck.py
 Enter the pincode asked
 ```
+
+# Windows App
+
+```
+If you have Windows OS, you can simply download the VaccineCheck.exe file in the App folder and double click to run it.
+```
+
